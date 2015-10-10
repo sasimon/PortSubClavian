@@ -1,0 +1,20 @@
+/* Set width to 320 px and set font size default */
+body {
+	width: 320pt;
+	font-family: "Arial", sans-serif;
+	font-size: 10pt;
+}
+
+/* Main section image positioning */
+
+#main {
+	position: relative;
+	width: 279pt;
+}
+
+.listNumber {
+	font-weight: bold;
+	color: #00aeef;
+}
+
+	
