@@ -7,7 +7,7 @@
 /* Set width to 320 px and set font size default */
 body {
 	font-family: "Arial", sans-serif;
-	font-size: 10pt;
+	font-size: 10pt !important;
 }
 
 /* Main section image positioning */
