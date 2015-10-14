@@ -1,3 +1,9 @@
+/* Set viewport size to 320 px (at 72 dpi)
+ * There are 96 CSS pixels in an inch, hence the need to specify pt */
+@viewport {
+	width: 320pt;
+}
+
 /* Set width to 320 px and set font size default */
 body {
 	font-family: "Arial", sans-serif;
